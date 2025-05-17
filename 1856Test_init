@@ -22,4 +22,3 @@ quotes = [`<q>We Frémonters of this town have not one dollar where the Fillmore
 customquote = quotes[Math.floor((Math.random() * quotes.length))]
 
 corrr="\n<h2>THE CAMPAIGN TRAIL: 1856</h2><font id='wittyquote' size='3' color='white'><em>" + customquote + "</em></font>"
-
